@@ -3,11 +3,17 @@
 
 <head>
   <meta charset="utf-8">
+  <link rel="stylesheet" href="HomePage.css"/>
   <title>MUshuttleLess</title>
 </head>
+
 <body>
 <h1>Welcome to MU Shuttleless!</h1>
+</br></br>
 
+<p>Please login below or click register</p>
+
+<button>Login</button>
 
 
 </body>
